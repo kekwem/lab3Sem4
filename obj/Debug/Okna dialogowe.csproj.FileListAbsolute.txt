@@ -1,0 +1,11 @@
+C:\Users\Dimon\source\repos\Okna dialogowe\bin\Debug\Okna dialogowe.exe.config
+C:\Users\Dimon\source\repos\Okna dialogowe\bin\Debug\Okna dialogowe.exe
+C:\Users\Dimon\source\repos\Okna dialogowe\bin\Debug\Okna dialogowe.pdb
+C:\Users\Dimon\source\repos\Okna dialogowe\obj\Debug\Okna dialogowe.csproj.AssemblyReference.cache
+C:\Users\Dimon\source\repos\Okna dialogowe\obj\Debug\Okna_dialogowe.DodajForm.resources
+C:\Users\Dimon\source\repos\Okna dialogowe\obj\Debug\Okna_dialogowe.Form1.resources
+C:\Users\Dimon\source\repos\Okna dialogowe\obj\Debug\Okna_dialogowe.Properties.Resources.resources
+C:\Users\Dimon\source\repos\Okna dialogowe\obj\Debug\Okna dialogowe.csproj.GenerateResource.cache
+C:\Users\Dimon\source\repos\Okna dialogowe\obj\Debug\Okna dialogowe.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\Okna dialogowe\obj\Debug\Okna dialogowe.exe
+C:\Users\Dimon\source\repos\Okna dialogowe\obj\Debug\Okna dialogowe.pdb
